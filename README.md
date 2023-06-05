@@ -1,3 +1,6 @@
+# UI
+![image](https://github.com/Aniket-op/ReactCalculator/assets/87001899/45ccd1e3-e27e-46a2-a772-a5deb45ecc9c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
